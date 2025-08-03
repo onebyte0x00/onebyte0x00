@@ -1,4 +1,6 @@
-## Hi there 👋 im 3bed, welcome to my plumbing workshop :) :smile:
+## Hi there 👋 im 3bed, welcome to my plumbing workshop :) :smile:  
+![GitHub Views](https://komarev.com/ghpvc/?username=onebyte0x00)
+
 <!--
 **onebyte0x00/onebyte0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
