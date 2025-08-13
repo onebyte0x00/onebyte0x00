@@ -1,7 +1,7 @@
 ## Hi there 👋 im 3bed. Welcome to my plumbing workshop :) 
 ![GitHub Views](https://komarev.com/ghpvc/?username=onebyte0x00)
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about electronics and hardware
    
 <!--
