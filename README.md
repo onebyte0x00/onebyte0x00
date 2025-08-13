@@ -1,4 +1,4 @@
-## Hi there 👋 im 3bed. Welcome to my plumbing workshop :) :smile:  
+## Hi there 👋 im 3bed. Welcome to my plumbing workshop :) 
 ![GitHub Views](https://komarev.com/ghpvc/?username=onebyte0x00)
 
 <!--
