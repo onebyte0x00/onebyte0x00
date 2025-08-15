@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=onebyte0x00&show_icons=true&theme=radical)
 
-[![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/onebyte0x00/onebyte0x00)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=onebyte0x00&theme=react-dark)
