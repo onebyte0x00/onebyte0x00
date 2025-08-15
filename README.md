@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=onebyte0x00&theme=react-dark)
